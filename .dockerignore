@@ -1,0 +1,7 @@
+release/
+tests/
+build-linux
+.git/
+.vs/
+**/bin/
+**/obj/
